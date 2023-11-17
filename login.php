@@ -1,4 +1,4 @@
-<?php
+<?php pemberi harapan palsu
     session_start();
     require '../Admin/admin_config.php';
     require '../function/connection.php';
